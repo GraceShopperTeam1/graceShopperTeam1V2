@@ -1646,7 +1646,7 @@ const usersForSeed = [
       currency: "Peso",
       iban: "NO17 0695 2754 967",
     },
-    role: "admin",
+    isAdmin: true,
   },
   {
     id: 2,
